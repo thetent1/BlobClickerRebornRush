@@ -15,11 +15,6 @@ Assets and sounds from Pixabay and AI‑generated art via Sora
 
 Music & additional design by TheTent1Games
 
-📦 How to Run
-Open the project in Unity (XX.X.X or newer).
-
-Click File → Build & Run to create a playable build.
-
 🎨 Credits
 Game Design & Programming: TheTent1Games
 
